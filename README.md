@@ -4,9 +4,9 @@ I'm a Software Engineer, precisely a Java back-end developer who is striving tow
 
 
 - 🔭 A self-motivator guy. Love to explore new things.
-- 🌱 I’m currently learning => "AWS DVA-C01, DevOps, Apache Kafka, Reactive Programming, DSA".
-- 💬 Ask me about => "Java, Spring Boot, Microservices, Angular, AWS Cloud, SQL/NoSQL, Testing".
-- :computer: Programming Languages I'd ever used => Java(Professionally), C, C++, Python, JavaScript, TypeScript.
-- :speaking_head: Language I can understand => English, Hindi, Bengali and French.
+- 🌱 I’m Currently Learning => "AWS DVA-C01, DevOps, Apache Kafka, Reactive Programming, DSA".
+- 💬 Ask Me About => "Java, Spring Boot, Microservices, Angular, AWS Cloud, SQL/NoSQL, Testing".
+- :computer: The Programming Languages I'd Ever Used => Java(Professionally), C, C++, Python, JavaScript, TypeScript.
+- :speaking_head: The Communication Languages I Can Understand => English, Hindi, Bengali and French.
 - ❤️ My Hobbies => Cricket. International Affairs. Reading Autobiographies.
 - ⚡ FUN-FACT => "There's no place like 127.0.0.1" 🐥
