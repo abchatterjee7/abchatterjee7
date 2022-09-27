@@ -3,7 +3,7 @@
 I'm a Software Engineer, precisely a Java back-end developer who is striving towards full stack. <br>
 
 
-- 🔭 A self-motivator guy. Love to explore new things.
+- 🔭 A self-motivated ISTJ personality. Love to explore new things.
 - 🌱 I’m Currently Learning => "AWS DVA-C01, DevOps, Apache Kafka, Reactive Programming, DSA".
 - 💬 Ask Me About => "Java, Spring Boot, Microservices, Angular, AWS Cloud, SQL/NoSQL, Testing".
 - :computer: The Programming Languages I'd Ever Used => Java(Professionally), C, C++, Python, JavaScript, TypeScript.
