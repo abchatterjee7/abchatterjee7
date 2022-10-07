@@ -10,3 +10,5 @@ I'm a Software Engineer, precisely a Java back-end developer who is striving tow
 - :speaking_head: The Communication Languages I Can Understand => English, Hindi, Bengali and French.
 - ❤️ My Hobbies => Cricket. International Affairs. Reading Autobiographies.
 - ⚡ FUN-FACT => "There's no place like 127.0.0.1" 🐥
+
+- :man_technologist: HACKER RANK (not a frquent visitor though) : https://www.hackerrank.com/aadiraj48/ 
