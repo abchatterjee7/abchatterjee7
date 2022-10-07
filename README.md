@@ -11,4 +11,4 @@ I'm a Software Engineer, precisely a Java back-end developer who is striving tow
 - ❤️ My Hobbies => Cricket. International Affairs. Reading Autobiographies.
 - ⚡ FUN-FACT => "There's no place like 127.0.0.1" 🐥
 
-- :man_technologist: HACKER RANK (not a frquent visitor though) : https://www.hackerrank.com/aadiraj48/ 
+- :man_technologist: HACKER RANK (not a frequent visitor though) : https://www.hackerrank.com/aadiraj48/ 
