@@ -29,21 +29,21 @@ I'm a Software Engineer, precisely a Java back-end developer who is striving tow
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://icongr.am/simple/spring.svg?size=128&color=109e19&colored=false" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+   <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=dc0929" title="HTML5" alt="HTML" width="50" height="40"/>&nbsp;
+   <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/devicon/typescript-plain.svg?size=91&color=currentColor" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://icongr.am/simple/angular.svg?size=128&color=9d1010&colored=false" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
+  <img src="https://icongr.am/devicon/amazonwebservices-original.svg?size=128&color=currentColor" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://icongr.am/simple/graphql.svg?size=128&color=9e108b&colored=false" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp; 
+  <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/devicon/postgresql-original.svg?size=91&color=currentColor" title="postgres" alt="postgres" width="40" height="40"/>&nbsp; 
   <img src="https://icongr.am/devicon/mongodb-original.svg?size=91&color=currentColor" title="mongo" alt="mongodb" width="40" height="40"/>&nbsp;  
   <img src="https://icongr.am/devicon/redis-original.svg?size=91&color=currentColor" title="redis" alt="redis" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://icongr.am/simple/git.svg?size=128&color=dc0929&colored=false" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://icongr.am/devicon/linux-original.svg?size=91&color=currentColor" title="linux" **alt="linux" width="40" height="40"/>
 </div>
 
