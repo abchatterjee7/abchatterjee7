@@ -4,6 +4,11 @@
     <a href="https://www.linkedin.com/in/aaditya-bachchu-chatterjee-0485933b/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+  </div> 
+  <div id="badges1">
+    <a href="https://www.youtube.com/channel/UCeaoUtrBLP94P20-LRO00WQ/">
+      <img src="https://img.shields.io/youtube/channel/subscribers/UCeaoUtrBLP94P20-LRO00WQ?label=Geopolitik%20Simplified%20%28Youtube%20Channel%29&style=for-the-badge" alt="Youtube Badge"/>
+    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=AadityaUoHyd&style=flat-square&color=blue" alt=""/>
 </div>
