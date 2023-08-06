@@ -1,16 +1,22 @@
 <div id="header" align="center">
   <h1> Hi 👋, I'm Aaditya Bachchu Chatterjee. <br>Welcome to my GitHub account.✨</h1>
-  <div id="badges">
+  <div id="badges1">
     <a href="https://www.linkedin.com/in/aaditya-bachchu-chatterjee-0485933b/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div> 
-  <div id="badges1">
+  <div id="badges2">
+    <a href="https://www.instagram.com/geopolitiksimplified/">
+      <img src="https://icongr.am/simple/instagram.svg?size=60&color=fb550e&colored=false" alt="Instagram Badge"/>
+    </a>
+  </div> 
+  <div id="badges3">
     <a href="https://www.youtube.com/channel/UCeaoUtrBLP94P20-LRO00WQ/">
-    <img src="https://icongr.am/fontawesome/youtube-square.svg?size=128&color=c00202" />
+    <img src="https://icongr.am/fontawesome/youtube-square.svg?size=60&color=c00202" />
     <!-- <img src="https://img.shields.io/youtube/channel/subscribers/UCeaoUtrBLP94P20-LRO00WQ?label=Geopolitik%20Simplified%20%28Youtube%20Channel%29&style=for-the-badge"/> -->
     </a>
   </div>
+  
   <img src="https://komarev.com/ghpvc/?username=AadityaUoHyd&style=flat-square&color=blue" alt=""/>
 </div>
 
