@@ -16,6 +16,12 @@
     <!-- <img src="https://img.shields.io/youtube/channel/subscribers/UCeaoUtrBLP94P20-LRO00WQ?label=Geopolitik%20Simplified%20%28Youtube%20Channel%29&style=for-the-badge"/> -->
     </a>
   </div>
+  <div id="badges4">
+    <a href="https://aadimyarticles.blogspot.com/">
+    <img src="https://icongr.am/fontawesome/address-book.svg?size=60&color=912222" />
+    <!-- <img src="https://img.shields.io/youtube/channel/subscribers/UCeaoUtrBLP94P20-LRO00WQ?label=Geopolitik%20Simplified%20%28Youtube%20Channel%29&style=for-the-badge"/> -->
+    </a>
+  </div>
   
   <img src="https://komarev.com/ghpvc/?username=AadityaUoHyd&style=flat-square&color=blue" alt=""/>
 </div>
