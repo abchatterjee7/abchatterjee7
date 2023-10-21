@@ -67,6 +67,7 @@ I'm a Software Engineer, precisely a Java back-end developer who is striving tow
   <img src="https://www.iconsdb.com/icons/preview/royal-blue/github-11-xxl.png" title="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/devicon/linux-original.svg?size=91&color=currentColor" title="linux" alt="linux" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/devicon/amazonwebservices-original.svg?size=128&color=currentColor" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernets" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="Jenkins" width="40" height="40"/>&nbsp;         
