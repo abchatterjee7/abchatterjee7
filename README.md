@@ -7,22 +7,24 @@
   </div> 
   <div id="badges2">
     <a href="https://www.instagram.com/geopolitiksimplified/">
-      <img src="https://icongr.am/simple/instagram.svg?size=60&color=fb550e&colored=false" alt="Instagram Badge"/>
+      <img src="https://icongr.am/simple/instagram.svg?size=60&color=ab2688&colored=false" alt="Instagram Badge"/>
     </a>
   </div> 
   <div id="badges3">
     <a href="https://www.youtube.com/channel/UCeaoUtrBLP94P20-LRO00WQ/">
-    <img src="https://icongr.am/fontawesome/youtube-square.svg?size=60&color=c00202" />
-    <!-- <img src="https://img.shields.io/youtube/channel/subscribers/UCeaoUtrBLP94P20-LRO00WQ?label=Geopolitik%20Simplified%20%28Youtube%20Channel%29&style=for-the-badge"/> -->
+      <img src="https://icongr.am/fontawesome/youtube-square.svg?size=60&color=c00202" />    
     </a>
   </div>
   <div id="badges4">
     <a href="https://aadimyarticles.blogspot.com/">
-    <img src="https://icongr.am/fontawesome/address-book.svg?size=60&color=912222" />
-    <!-- <img src="https://img.shields.io/youtube/channel/subscribers/UCeaoUtrBLP94P20-LRO00WQ?label=Geopolitik%20Simplified%20%28Youtube%20Channel%29&style=for-the-badge"/> -->
+      <img src="https://icongr.am/fontawesome/address-book.svg?size=60&color=ab8126" />
     </a>
   </div>
-  
+  <div id="badges5">
+    <a href="https://medium.com/@aadiraj48/">
+      <img src="https://icongr.am/fontawesome/medium.svg?size=60&color=3c26ab" />
+    </a>
+  </div>
   <img src="https://komarev.com/ghpvc/?username=AadityaUoHyd&style=flat-square&color=blue" alt=""/>
 </div>
 
