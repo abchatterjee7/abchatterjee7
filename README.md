@@ -21,7 +21,7 @@
     </a>
   </div>
   <div id="badges5">
-    <a href="https://medium.com/@aadiraj48/">
+    <a href="https://medium.com/@aadityabchatterjee/">
       <img src="https://icongr.am/fontawesome/medium.svg?size=60&color=3c26ab" />
     </a>
   </div>
