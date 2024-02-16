@@ -50,15 +50,16 @@ I'm a Software Engineer, precisely a Java back-end developer who is striving tow
 ### :hammer_and_wrench: Languages and Tools :
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <div>       
-  <img src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="50" height="50"/>&nbsp;
+  <img src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor" title="Java" alt="Java" width="60" height="60"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="60" height="60"/>&nbsp;
   <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" title="Python" alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor" title="Django" alt="Django" width="50" height="50"/>&nbsp;  
+  <img src="https://icongr.am/simple/apachekafka.svg?size=128&color=ea0606&colored=false" title="Kafka" alt="Kafka" width="50" height="50"/>&nbsp;
   <img src="https://icongr.am/material/graphql.svg?size=128&color=f90bf1" title="GraphQL" alt="GraphQL" width="50" height="50"/>&nbsp; </br>
-  <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp;
-  <img src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=cfd6e3" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
-  <img src="https://icongr.am/devicon/mongodb-plain-wordmark.svg?size=128&color=48c71a" title="MongoDb" alt="MongoDb" width="40" height="40"/>&nbsp;  
-  <img src="https://icongr.am/devicon/redis-original-wordmark.svg?size=128&color=020fc0" title="redis" alt="redis" width="40" height="40"/>&nbsp; </br>
+  <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;
+  <img src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=cfd6e3" title="postgresql" alt="postgresql" width="50" height="50"/>&nbsp;
+  <img src="https://icongr.am/devicon/mongodb-plain-wordmark.svg?size=128&color=48c71a" title="MongoDb" alt="MongoDb" width="50" height="50"/>&nbsp;  
+  <img src="https://icongr.am/devicon/redis-original-wordmark.svg?size=128&color=020fc0" title="redis" alt="redis" width="50" height="50"/>&nbsp; </br>
   <img src="https://icongr.am/devicon/html5-plain-wordmark.svg?size=128&color=d53030" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/devicon/css3-plain-wordmark.svg?size=128&color=1958be" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/devicon/jquery-plain-wordmark.svg?size=128&color=020fc0" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
@@ -80,8 +81,10 @@ I'm a Software Engineer, precisely a Java back-end developer who is striving tow
   <img src="https://icongr.am/devicon/tomcat-original-wordmark.svg?size=128&color=d53030" title="Tomcat" alt="Tomcat" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/material/jira.svg?size=128&color=330bf9" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/devicon/gradle-plain-wordmark.svg?size=128&color=32d016" title="Gradle" alt="Gradle" width="50" height="50"/>&nbsp;
-  <img src="https://camo.githubusercontent.com/498299ae410866fd60efc86428749cfae716bf93c5844cad2f79aa353968d4fc/68747470733a2f2f6d6176656e2e6170616368652e6f72672f696d616765732f6d6176656e2d6c6f676f2d77686974652d6f6e2d626c61636b2e707572657665632e737667" title="Maven" alt="Maven" width="60" height="30"/>&nbsp;
-  <img src="https://camo.githubusercontent.com/752dabc7ca2275ee7a079fa24433ff2c6307eb4cddc541dfed60749f62772b41/68747470733a2f2f6a6d657465722e6170616368652e6f72672f696d616765732f6c6f676f2e737667" title="JMeter" width="60" height="30"/>&nbsp;
+  <img src="https://icongr.am/simple/apachemaven.svg?size=128&color=c31313&colored=false" title="Maven" alt="Maven" width="40" height="40"/>&nbsp;
+  <img src="https://cdn2.hubspot.net/hubfs/208250/apachejmeter.jpg" title="JMeter" alt="JMeter" width="60" height="40"/>&nbsp;
+  <img src="https://icongr.am/simple/prometheus.svg?size=128&color=ea0606&colored=false" title="Prometheus" alt="Prometheus" width="40" height="40"/>&nbsp;
+  <img src="https://icongr.am/simple/elasticsearch.svg?size=128&color=cfea06&colored=false" title="Elasticsearch" alt="Elasticsearch" width="40" height="40"/>&nbsp;
 </div>
 
 ---
