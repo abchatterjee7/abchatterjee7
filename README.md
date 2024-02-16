@@ -59,7 +59,8 @@ I'm a Software Engineer, precisely a Java back-end developer who is striving tow
   <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;
   <img src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=cfd6e3" title="postgresql" alt="postgresql" width="50" height="50"/>&nbsp;
   <img src="https://icongr.am/devicon/mongodb-plain-wordmark.svg?size=128&color=48c71a" title="MongoDb" alt="MongoDb" width="50" height="50"/>&nbsp;  
-  <img src="https://icongr.am/devicon/redis-original-wordmark.svg?size=128&color=020fc0" title="redis" alt="redis" width="50" height="50"/>&nbsp; </br>
+  <img src="https://icongr.am/devicon/redis-original-wordmark.svg?size=128&color=020fc0" title="redis" alt="redis" width="50" height="50"/>&nbsp;
+  <img src="https://icongr.am/simple/elasticsearch.svg?size=128&color=06ea74&colored=false" title="Elasticsearch" alt="Elasticsearch" width="40" height="40"/>&nbsp; </br>
   <img src="https://icongr.am/devicon/html5-plain-wordmark.svg?size=128&color=d53030" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/devicon/css3-plain-wordmark.svg?size=128&color=1958be" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/devicon/jquery-plain-wordmark.svg?size=128&color=020fc0" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
@@ -84,7 +85,7 @@ I'm a Software Engineer, precisely a Java back-end developer who is striving tow
   <img src="https://icongr.am/simple/apachemaven.svg?size=128&color=c31313&colored=false" title="Maven" alt="Maven" width="40" height="40"/>&nbsp;
   <img src="https://cdn2.hubspot.net/hubfs/208250/apachejmeter.jpg" title="JMeter" alt="JMeter" width="60" height="40"/>&nbsp;
   <img src="https://icongr.am/simple/prometheus.svg?size=128&color=ea0606&colored=false" title="Prometheus" alt="Prometheus" width="40" height="40"/>&nbsp;
-  <img src="https://icongr.am/simple/elasticsearch.svg?size=128&color=cfea06&colored=false" title="Elasticsearch" alt="Elasticsearch" width="40" height="40"/>&nbsp;
+  <img src="https://icongr.am/simple/grafana.svg?size=128&color=ea7406&colored=false" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;  
 </div>
 
 ---
