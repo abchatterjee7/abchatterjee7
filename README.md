@@ -52,7 +52,9 @@ I'm a Software Engineer, precisely a Java back-end developer who is striving tow
 <div>       
   <img src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor" title="Java" alt="Java" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="50" height="50"/>&nbsp; </br>
+  <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+  <img src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor" title="Django" alt="Django" width="50" height="50"/>&nbsp;  
+  <img src="https://icongr.am/material/graphql.svg?size=128&color=f90bf1" title="GraphQL" alt="GraphQL" width="50" height="50"/>&nbsp; </br>
   <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp;
   <img src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=cfd6e3" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/devicon/mongodb-plain-wordmark.svg?size=128&color=48c71a" title="MongoDb" alt="MongoDb" width="40" height="40"/>&nbsp;  
@@ -66,17 +68,17 @@ I'm a Software Engineer, precisely a Java back-end developer who is striving tow
   <img src="https://icongr.am/simple/angular.svg?size=128&color=9d1010&colored=false" title="Angular" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=c00202" title="React" width="40" height="40"/>&nbsp; </br>
   <img src="https://icongr.am/simple/git.svg?size=128&color=dc0929&colored=false" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://www.iconsdb.com/icons/preview/royal-blue/github-11-xxl.png" title="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://icongr.am/material/github.svg?size=128&color=f9530b" title="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/devicon/linux-original.svg?size=91&color=currentColor" title="linux" alt="linux" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/devicon/amazonwebservices-original.svg?size=128&color=currentColor" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernets" width="50" height="50"/>&nbsp;
+  <img src="https://icongr.am/material/kubernetes.svg?size=128&color=0b33f9" title="Kubernets" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="Jenkins" width="40" height="40"/>&nbsp;         
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
+  <img src="https://icongr.am/material/ansible.svg?size=128&color=f90b3b" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp;
+  <img src="https://icongr.am/material/terraform.svg?size=128&color=330bf9" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/devicon/tomcat-original-wordmark.svg?size=128&color=d53030" title="Tomcat" alt="Tomcat" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
+  <img src="https://icongr.am/material/jira.svg?size=128&color=330bf9" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/devicon/gradle-plain-wordmark.svg?size=128&color=32d016" title="Gradle" alt="Gradle" width="50" height="50"/>&nbsp;
   <img src="https://camo.githubusercontent.com/498299ae410866fd60efc86428749cfae716bf93c5844cad2f79aa353968d4fc/68747470733a2f2f6d6176656e2e6170616368652e6f72672f696d616765732f6d6176656e2d6c6f676f2d77686974652d6f6e2d626c61636b2e707572657665632e737667" title="Maven" alt="Maven" width="60" height="30"/>&nbsp;
   <img src="https://camo.githubusercontent.com/752dabc7ca2275ee7a079fa24433ff2c6307eb4cddc541dfed60749f62772b41/68747470733a2f2f6a6d657465722e6170616368652e6f72672f696d616765732f6c6f676f2e737667" title="JMeter" width="60" height="30"/>&nbsp;
