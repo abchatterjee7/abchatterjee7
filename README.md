@@ -1,27 +1,32 @@
 <div id="header" align="center">
   <h1> Hi 👋, I'm Aaditya Bachchu Chatterjee. <br>Welcome to my GitHub account.✨</h1>
   <div id="badges1">
-    <a href="https://www.linkedin.com/in/aaditya-bachchu-chatterjee-0485933b/">
+    <a href="https://www.linkedin.com/in/aaditya-bachchu-chatterjee-0485933b/" title="LinkedIn">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div> 
   <div id="badges2">
-    <a href="https://www.instagram.com/geopolitiksimplified/">
+    <a href="https://abchatterjee.netlify.app/" title="Portfolio">
+      <img src="https://icongr.am/fontawesome/podcast.svg?size=60&color=c1d52a" />
+    </a>
+  </div>
+  <div id="badges3">
+    <a href="https://www.instagram.com/geopolitiksimplified/" title="Instagram">
       <img src="https://icongr.am/simple/instagram.svg?size=60&color=ab2688&colored=false" alt="Instagram Badge"/>
     </a>
   </div> 
-  <div id="badges3">
-    <a href="https://www.youtube.com/channel/UCeaoUtrBLP94P20-LRO00WQ/">
+  <div id="badges4">
+    <a href="https://www.youtube.com/channel/UCeaoUtrBLP94P20-LRO00WQ/" title="YouTube">
       <img src="https://icongr.am/fontawesome/youtube-square.svg?size=60&color=c00202" />    
     </a>
   </div>
-  <div id="badges4">
-    <a href="https://aadimyarticles.blogspot.com/">
+  <div id="badges5">
+    <a href="https://dearabc.vercel.app/" title="My Own Personal Blog">
       <img src="https://icongr.am/fontawesome/address-book.svg?size=60&color=ab8126" />
     </a>
   </div>
-  <div id="badges5">
-    <a href="https://medium.com/@aadityabchatterjee/">
+  <div id="badges6">
+    <a href="https://medium.com/@aadityabchatterjee/" title="Medium">
       <img src="https://icongr.am/fontawesome/medium.svg?size=60&color=3c26ab" />
     </a>
   </div>
