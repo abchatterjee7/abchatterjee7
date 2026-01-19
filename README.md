@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h1> Hi 👋, I'm Aaditya Bachchu Chatterjee. <br>Welcome to my GitHub account.✨</h1>
   <div id="badges1">
-    <a href="https://www.linkedin.com/in/aaditya-bachchu-chatterjee-0485933b/" title="LinkedIn">
+    <a href="https://www.linkedin.com/in/abchatterjee7/" title="LinkedIn">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div> 
@@ -30,7 +30,7 @@
       <img src="https://icongr.am/fontawesome/medium.svg?size=60&color=3c26ab" />
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=AadityaUoHyd&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=abchatterjee7&style=flat-square&color=blue" alt=""/>
 </div>
 
 I'm a Software Engineer, precisely a Java back-end developer who is striving towards full stack. <br>
@@ -96,6 +96,6 @@ I'm a Software Engineer, precisely a Java back-end developer who is striving tow
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AadityaUoHyd&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abchatterjee7&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AadityaUoHyd&layout=compact&theme=vision-friendly-dark)](https://github.com/AadityaUoHyd/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abchatterjee7&layout=compact&theme=vision-friendly-dark)](https://github.com/abchatterjee7/github-readme-stats)
