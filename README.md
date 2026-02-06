@@ -15,7 +15,7 @@ Welcome to my GitHub! ✨
 [![Instagram](https://icongr.am/simple/instagram.svg?size=60&color=ab2688&colored=false "Instagram")](https://www.instagram.com/geopolitiksimplified/) 
 [![YouTube](https://icongr.am/fontawesome/youtube-square.svg?size=60&color=c00202 "YouTube")](https://www.youtube.com/channel/UCeaoUtrBLP94P20-LRO00WQ/) 
 [![Blog](https://icongr.am/fontawesome/commenting-o.svg?size=60&color=37d25e "Personal Blog")](https://dearabc.vercel.app/) 
-[![Medium](https://icongr.am/fontawesome/medium.svg?size=60&color=d9e70d "Medium Articles")](https://medium.com/@aadityabchatterjee/)
+[![Medium](https://icongr.am/fontawesome/medium.svg?size=60&color=d9e70d "Medium Articles")](https://medium.com/@abchatterjee7/)
 [![TechBlog](https://icongr.am/fontawesome/connectdevelop.svg?size=60&color=6637d2 "Tech Blog")](https://abc-tech-blog.vercel.app/)
 
 </div>
