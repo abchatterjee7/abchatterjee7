@@ -37,8 +37,9 @@ I’m a **Software Engineer**, focused on **Java Back-End Development** and prog
 
 ## 🧰 Competitive Programming
 
-- [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=plastic&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/AadiBChatterjee)
+- [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=plastic&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/AadiBChatterjee)
 - [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=plastic&logo=leetcode&logoColor=black)](https://leetcode.com/Aaditya-B-Chatterjee/)
+- [![StackOverflow](https://img.shields.io/badge/StackOverflow-FFC673?style=plastic&logo=stackoverflow&logoColor=black)](https://stackoverflow.com/users/16740199/aaditya-bachchu-chatterjee)
 
 ---
 
