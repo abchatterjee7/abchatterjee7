@@ -13,7 +13,7 @@ Welcome to my GitHub! ✨
 [![LinkedIn](https://icongr.am/fontawesome/linkedin-square.svg?size=60&color=0a66c2 "LinkedIn")](https://linkedin.com/in/abchatterjee7/)  
 [![Portfolio](https://icongr.am/fontawesome/bullseye.svg?size=60&color=0de7e4 "Portfolio")](https://abchatterjee.netlify.app/) 
 [![Instagram](https://icongr.am/simple/instagram.svg?size=60&color=ab2688&colored=false "Instagram")](https://www.instagram.com/geopolitiksimplified/) 
-[![YouTube](https://icongr.am/fontawesome/youtube-square.svg?size=60&color=c00202 "YouTube")](https://www.youtube.com/channel/UCeaoUtrBLP94P20-LRO00WQ/) 
+[![YouTube](https://icongr.am/fontawesome/youtube-square.svg?size=60&color=c00202 "YouTube")](https://www.youtube.com/@abchatterjee7) 
 [![Blog](https://icongr.am/fontawesome/commenting-o.svg?size=60&color=37d25e "Personal Blog")](https://dearabc.vercel.app/) 
 [![Medium](https://icongr.am/fontawesome/medium.svg?size=60&color=d9e70d "Medium Articles")](https://medium.com/@abchatterjee7/)
 [![TechBlog](https://icongr.am/fontawesome/connectdevelop.svg?size=60&color=6637d2 "Tech Blog")](https://abc-tech-blog.vercel.app/)
