@@ -28,9 +28,11 @@ I’m a **Software Engineer**, focused on **Java Back-End Development** and prog
 
 - 🔭 Self-motivated and always exploring new technologies  
 - 🌱 Currently learning: **AWS DVA-C01, DevOps, Apache Kafka, Reactive Programming, DSA**  
-- 💬 Ask me about: **Java, Spring Boot, Microservices, Python, React, Angular, AWS Cloud, SQL/NoSQL, DevOps, Testing**  
+- 💬 Ask me about: **Java, Spring Boot, Microservices, Python, React, Angular, AWS Cloud, SQL/NoSQL, DevOps, Testing**
+- 💰 Also a **Stock Market Investor/Trader**
+- 📝 Aspiring **Writer** & Part-Time **YouTube** Content Creator
 - 🗣️ Languages I speak: **English, Hindi, Bengali**  
-- ❤️ Hobbies: **Cricket, International Affairs, Reading non-fiction books**  
+- ❤️ Hobbies: **Cricket, International Affairs, Reading non-fiction books**
 - ⚡ Fun fact: *“There’s no place like `127.0.0.1`”* 🐥  
 
 ---
