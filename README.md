@@ -114,6 +114,7 @@ I’m a **Software Engineer**, focused on **Java Back-End Development** and prog
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" title="HTML"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" title="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="40" title="Streamlit"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"  width="40" title="TailwindCss" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap"/>
           
@@ -130,6 +131,21 @@ I’m a **Software Engineer**, focused on **Java Back-End Development** and prog
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" title="Redis"/>
   <img src="https://cdn.simpleicons.org/apachekafka/007BFF" width="40" title="Kafka"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="40" title="RabbitMQ" />        
+</p>
+
+---
+
+### 🤖 Artificial Intelligence Stack
+<p>
+  <img src="https://cdn.simpleicons.org/claudecode/D97757" width="40" title="claudecode"/>
+  <img src="https://cdn.simpleicons.org/githubcopilot/FC3E04" width="40" title="copilot"/>
+  <img src="https://cdn.simpleicons.org/opencode/73BA25" width="40" title="OpenCode"/>
+  <img src="https://cdn.simpleicons.org/googlegemini/007BFF" width="40" title="GenAI with Gemini"/>
+  <img src="https://cdn.simpleicons.org/probot/00B0D8" width="40" title="Agentic AI"/>
+  <img src="https://cdn.simpleicons.org/qdrant/DC244C" width="40" title="Qdrant Vector DB"/>
+  <img src="https://cdn.simpleicons.org/modelcontextprotocol/D97752" width="40" title="MCP"/>
+  <img src="https://cdn.simpleicons.org/langchain/7FC8FF" width="40" title="LangChain"/>
+  <img src="https://cdn.simpleicons.org/langgraph/7FC8FF" width="40" title="LangGraph"/>
 </p>
 
 ---
@@ -161,7 +177,6 @@ I’m a **Software Engineer**, focused on **Java Back-End Development** and prog
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" title="Ansible"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="40" title="Maven"/>
   <img src="https://cdn.simpleicons.org/github/0000FF" width="40" title="GitHub"/>
-  <img src="https://cdn.simpleicons.org/googlegemini/007BFF" width="40" title="GenAI"/>
 </p>
 
 ---
