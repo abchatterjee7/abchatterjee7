@@ -10,16 +10,50 @@ Welcome to my GitHub! ✨
 
 ### 🌐 Connect with Me
 
-<p align="center"> 
-  <a href="https://linkedin.com/in/abchatterjee7/"> <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="50" alt="LinkedIn" title="LinkedIn"/> </a> &nbsp;&nbsp;
-  <a href="https://abchatterjee.netlify.app/"> <img src="https://cdn.simpleicons.org/googlechrome/0DE7E4" width="50" alt="Portfolio" title="Portfolio"/> </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/geopolitiksimplified/"> <img src="https://cdn.simpleicons.org/instagram/AB2688" width="50" alt="Instagram" title="Instagram"/> </a> 
-&nbsp;&nbsp; 
-  <a href="https://www.youtube.com/@abchatterjee7"> <img src="https://cdn.simpleicons.org/youtube/C00202" width="50" alt="YouTube" title="YouTube"/> </a> &nbsp;&nbsp; 
-  <a href="https://dearabc.vercel.app/"> <img src="https://cdn.simpleicons.org/blogger/37D25E" width="50" alt="Personal Blog" title="Personal Blog"/> </a> &nbsp;&nbsp; 
-  <a href="https://medium.com/@abchatterjee7/"> <img src="https://cdn.simpleicons.org/medium/D9E70D" width="50" alt="Medium Articles" title="Medium Articles"/> </a> &nbsp;&nbsp; 
-  <a href="https://abc-tech-blog.vercel.app/"> <img src="https://cdn.simpleicons.org/vercel/6637D2" width="50" alt="Tech Blog" title="Tech Blog"/> </a> 
+<p align="center">
+  <a href="https://linkedin.com/in/abchatterjee7/" style="text-decoration:none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+         width="50" alt="LinkedIn" title="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://abchatterjee.netlify.app/" style="text-decoration:none;">
+    <img src="https://abchatterjee.netlify.app/logo.png"
+         width="50" alt="Portfolio" title="Portfolio"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://www.instagram.com/geopolitiksimplified/" style="text-decoration:none;">
+    <img src="https://cdn.simpleicons.org/instagram/AB2688"
+         width="50" alt="Instagram" title="Instagram"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://www.youtube.com/@abchatterjee7" style="text-decoration:none;">
+    <img src="https://cdn.simpleicons.org/youtube/C00202"
+         width="50" alt="YouTube" title="YouTube"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://dearabc.vercel.app/" style="text-decoration:none;">
+    <img src="https://dearabc.vercel.app/static/images/dearabc.png"
+         width="50" alt="Personal Blog" title="Personal Blog"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://medium.com/@abchatterjee7/" style="text-decoration:none;">
+    <img src="https://cdn.simpleicons.org/medium/D9E70D"
+         width="50" alt="Medium Articles" title="Medium Articles"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://abc-tech-blog.vercel.app/" style="text-decoration:none;">
+    <img src="https://res.cloudinary.com/ddgkgaffw/image/upload/v1746841963/logo_q4qqii.png"
+         width="50" alt="Tech Blog" title="Tech Blog"/>
+  </a>
 </p>
+
+
 
 </div>
 
