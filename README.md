@@ -30,14 +30,8 @@ Welcome to my GitHub! ✨
   &nbsp;&nbsp;
 
   <a href="https://www.youtube.com/@abchatterjee7" style="text-decoration:none;">
-    <img src="https://cdn.simpleicons.org/youtube/C00202"
-         width="50" alt="YouTube" title="YouTube"/>
-  </a>
-  &nbsp;&nbsp;
-
-  <a href="https://dearabc.vercel.app/" style="text-decoration:none;">
-    <img src="https://dearabc.vercel.app/static/images/dearabc.png"
-         width="50" alt="Personal Blog" title="Personal Blog"/>
+    <img src="https://yt3.googleusercontent.com/XHiVEL_MD_FUbaUTdiHjRLFROeHNHay16a6wjRGvAEoFsCrbPERNO_KpVOh20JMuc78Niu1W=s160-c-k-c0x00ffffff-no-rj"
+         width="50" alt="YouTube" title="ABCTechLab"/>
   </a>
   &nbsp;&nbsp;
 
@@ -51,6 +45,19 @@ Welcome to my GitHub! ✨
     <img src="https://res.cloudinary.com/ddgkgaffw/image/upload/v1746841963/logo_q4qqii.png"
          width="50" alt="Tech Blog" title="Tech Blog"/>
   </a>
+
+  <a href="https://dearabc.vercel.app/" style="text-decoration:none;">
+    <img src="https://dearabc.vercel.app/static/images/dearabc.png"
+         width="50" alt="Personal Blog" title="Personal Blog"/>
+  </a>
+  &nbsp;&nbsp;
+
+   <a href="https://www.youtube.com/@geopolitiksimplified" style="text-decoration:none;">
+    <img src="https://yt3.googleusercontent.com/oKbR3HwnXPDOgH5uUMssyiw7lLAlTVtfqR2ODPgsyCkDO4GPHXotRs6nzLlAm2VAVQtOK9CC=s160-c-k-c0x00ffffff-no-rj"
+         width="50" alt="Geopolitik simplified" title="Geopolitik simplified"/>
+  </a>
+  &nbsp;&nbsp;
+
 </p>
 
 
