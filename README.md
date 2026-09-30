@@ -10,13 +10,16 @@ Welcome to my GitHub! ✨
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://icongr.am/fontawesome/linkedin-square.svg?size=60&color=0a66c2 "LinkedIn")](https://linkedin.com/in/abchatterjee7/)  
-[![Portfolio](https://icongr.am/fontawesome/bullseye.svg?size=60&color=0de7e4 "Portfolio")](https://abchatterjee.netlify.app/) 
-[![Instagram](https://icongr.am/simple/instagram.svg?size=60&color=ab2688&colored=false "Instagram")](https://www.instagram.com/geopolitiksimplified/) 
-[![YouTube](https://icongr.am/fontawesome/youtube-square.svg?size=60&color=c00202 "YouTube")](https://www.youtube.com/@abchatterjee7) 
-[![Blog](https://icongr.am/fontawesome/commenting-o.svg?size=60&color=37d25e "Personal Blog")](https://dearabc.vercel.app/) 
-[![Medium](https://icongr.am/fontawesome/medium.svg?size=60&color=d9e70d "Medium Articles")](https://medium.com/@abchatterjee7/)
-[![TechBlog](https://icongr.am/fontawesome/connectdevelop.svg?size=60&color=6637d2 "Tech Blog")](https://abc-tech-blog.vercel.app/)
+<p align="center"> 
+  <a href="https://linkedin.com/in/abchatterjee7/"> <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="50" alt="LinkedIn" title="LinkedIn"/> </a> &nbsp;&nbsp;
+  <a href="https://abchatterjee.netlify.app/"> <img src="https://cdn.simpleicons.org/googlechrome/0DE7E4" width="50" alt="Portfolio" title="Portfolio"/> </a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/geopolitiksimplified/"> <img src="https://cdn.simpleicons.org/instagram/AB2688" width="50" alt="Instagram" title="Instagram"/> </a> 
+&nbsp;&nbsp; 
+  <a href="https://www.youtube.com/@abchatterjee7"> <img src="https://cdn.simpleicons.org/youtube/C00202" width="50" alt="YouTube" title="YouTube"/> </a> &nbsp;&nbsp; 
+  <a href="https://dearabc.vercel.app/"> <img src="https://cdn.simpleicons.org/blogger/37D25E" width="50" alt="Personal Blog" title="Personal Blog"/> </a> &nbsp;&nbsp; 
+  <a href="https://medium.com/@abchatterjee7/"> <img src="https://cdn.simpleicons.org/medium/D9E70D" width="50" alt="Medium Articles" title="Medium Articles"/> </a> &nbsp;&nbsp; 
+  <a href="https://abc-tech-blog.vercel.app/"> <img src="https://cdn.simpleicons.org/vercel/6637D2" width="50" alt="Tech Blog" title="Tech Blog"/> </a> 
+</p>
 
 </div>
 
@@ -27,8 +30,8 @@ Welcome to my GitHub! ✨
 I’m a **Software Engineer**, focused on **Java Back-End Development** and progressing toward **Full-Stack Development**.
 
 - 🔭 Self-motivated and always exploring new technologies  
-- 🌱 Currently learning: **AWS DVA-C01, DevOps, Apache Kafka, Reactive Programming, DSA**  
-- 💬 Ask me about: **Java, Spring Boot, Microservices, Python, React, Angular, AWS Cloud, SQL/NoSQL, DevOps, Testing**
+- 🌱 Currently learning: **Agentic AI, AWS DVA-C01, DevOps, Reactive Programming, DSA**  
+- 💬 Ask me about: **Java, Spring Boot, Microservices, Python, AI, React, Angular, AWS Cloud, SQL/NoSQL, DevOps, Testing**
 - 💰 Also a **Stock Market Investor/Trader**
 - 📝 Aspiring **Writer** & Part-Time **YouTube** Content Creator
 - 🗣️ Languages I speak: **English, Hindi, Bengali**  
