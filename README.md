@@ -30,7 +30,7 @@ Welcome to my GitHub! ✨
   &nbsp;&nbsp;
 
   <a href="https://www.youtube.com/@abchatterjee7" style="text-decoration:none;">
-    <img src="https://yt3.googleusercontent.com/XHiVEL_MD_FUbaUTdiHjRLFROeHNHay16a6wjRGvAEoFsCrbPERNO_KpVOh20JMuc78Niu1W=s160-c-k-c0x00ffffff-no-rj"
+    <img src="https://yt3.googleusercontent.com/RxazcEU7zLRTGvpAlCtSh8mZXhRCaXgbTJYFMH74CHrLZ6Z-RCnSRf6Z6q0AVylpUNomJMVG2Q=s160-c-k-c0x00ffffff-no-rj"
          width="50" alt="YouTube" title="ABCTechLab"/>
   </a>
   &nbsp;&nbsp;
