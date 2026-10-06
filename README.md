@@ -60,8 +60,6 @@ Welcome to my GitHub! ✨
 
 </p>
 
-
-
 </div>
 
 ---
