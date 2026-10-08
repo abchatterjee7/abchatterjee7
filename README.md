@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Bachchu Chatterjee (Aaditya)  
+# 👋 Hi, I'm (Aaditya) Bachchu Chatterjee 
 ### 🚀 Java Backend Developer | Aspiring Full-Stack Engineer
 
 Welcome to my GitHub! ✨  
