@@ -137,8 +137,8 @@ I’m a **Software Engineer**, focused on **Java Back-End Development** and prog
 ### 🤖 Artificial Intelligence Stack
 <p>
   <img src="https://spring.io/img/projects/spring-ai.svg" width="40" title="Spring AI"/>
-  <img src="https://cdn.simpleicons.org/claudecode/D97757" width="40" title="claudecode"/>
-  <img src="https://cdn.simpleicons.org/githubcopilot/FC3E04" width="40" title="copilot"/>
+  <img src="https://cdn.simpleicons.org/claudecode/D97757" width="40" title="Claude Code"/>
+  <img src="https://cdn.simpleicons.org/githubcopilot/FC3E04" width="40" title="Copilot"/>
   <img src="https://cdn.simpleicons.org/opencode/73BA25" width="40" title="OpenCode"/>
   <img src="https://cdn.simpleicons.org/googlegemini/007BFF" width="40" title="GenAI with Gemini"/>
   <img src="https://cdn.simpleicons.org/probot/00B0D8" width="40" title="Agentic AI"/>
@@ -147,7 +147,9 @@ I’m a **Software Engineer**, focused on **Java Back-End Development** and prog
   <img src="https://cdn.simpleicons.org/langchain/7FC8FF" width="40" title="LangChain"/>
   <img src="https://cdn.simpleicons.org/langgraph/7FC8FF" width="40" title="LangGraph"/>
   <img src="https://cdn.simpleicons.org/langchaincorporate/7FC8FF" width="40" title="LangSmith"/>
-  <img src="https://cdn.simpleicons.org/crewai/FF5A50" width="40" title="CrewAI"/>
+  <img src="https://cdn.simpleicons.org/crewai/FF5980" width="40" title="CrewAI"/>
+  <img src="https://cdn.simpleicons.org/huggingface/FFFF00" width="40" title="Hugging Face"/>
+  <img src="https://cdn.simpleicons.org/Ollama/FFFFFF" width="40" title="Ollama"/>
 </p>
 
 ---
