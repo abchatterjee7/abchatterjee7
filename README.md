@@ -93,6 +93,7 @@ I’m a **Software Engineer**, focused on **Java Back-End Development** and prog
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" title="Spring"/>
+  <img src="https://cdn.simpleicons.org/springboot/6DB33F" width="40" title="SpringBoot"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" title="Django"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="40" title="FastAPI"/>
@@ -135,6 +136,7 @@ I’m a **Software Engineer**, focused on **Java Back-End Development** and prog
 
 ### 🤖 Artificial Intelligence Stack
 <p>
+  <img src="https://spring.io/img/projects/spring-ai.svg" width="40" title="Spring AI"/>
   <img src="https://cdn.simpleicons.org/claudecode/D97757" width="40" title="claudecode"/>
   <img src="https://cdn.simpleicons.org/githubcopilot/FC3E04" width="40" title="copilot"/>
   <img src="https://cdn.simpleicons.org/opencode/73BA25" width="40" title="OpenCode"/>
@@ -144,6 +146,8 @@ I’m a **Software Engineer**, focused on **Java Back-End Development** and prog
   <img src="https://cdn.simpleicons.org/modelcontextprotocol/D97752" width="40" title="MCP"/>
   <img src="https://cdn.simpleicons.org/langchain/7FC8FF" width="40" title="LangChain"/>
   <img src="https://cdn.simpleicons.org/langgraph/7FC8FF" width="40" title="LangGraph"/>
+  <img src="https://cdn.simpleicons.org/langchaincorporate/7FC8FF" width="40" title="LangSmith"/>
+  <img src="https://cdn.simpleicons.org/crewai/FF5A50" width="40" title="CrewAI"/>
 </p>
 
 ---
